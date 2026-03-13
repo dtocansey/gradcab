@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Configuration files with sensitive data
+config.yaml
+*.env
+.env.*
+
+# Generated output files
+content_results.json
+*_results.json

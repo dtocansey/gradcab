@@ -1,0 +1,42 @@
+# OpenAI API Configuration
+# Copy this file to config.yaml and add your API key
+
+openai:
+  api_key: your-openai-api-key-here
+  model: omni-moderation-latest
+
+# Moderation settings
+moderation:
+  enabled: true
+  
+  # Score thresholds for blocking content (0.0 to 1.0)
+  # Posts exceeding any threshold will be blocked
+  thresholds:
+    sexual: 0.7
+    hate: 0.5
+    harassment: 0.6
+    self_harm: 0.3
+    sexual_minors: 0.1
+    hate_threatening: 0.4
+    violence_graphic: 0.6
+    self_harm_intent: 0.3
+    self_harm_instructions: 0.2
+    harassment_threatening: 0.5
+    violence: 0.7
+  
+  # Input/Output files
+  input_file: content.yaml
+  output_file: content_results.json
+
+# System prompt for moderation context
+system_prompt: |
+  You are moderating user-generated content for a student peer support platform (GradCab).
+  The platform connects newly admitted students with current students for campus arrival assistance.
+  
+  Content must be:
+  - Safe and respectful
+  - Free from harmful, hateful, or violent material
+  - Appropriate for a student community
+  - Professional and supportive in tone
+  
+  Block any content that could make students feel unsafe or unwelcome.

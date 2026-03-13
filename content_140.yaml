@@ -1,0 +1,566 @@
+# Content to moderate
+# Add user posts here for batch moderation
+# flag: safe = expected to pass, unsafe = expected to be flagged
+
+posts:
+  - user_id: user_001
+    content: "Hi! I'm arriving next week from Ghana. Anyone available to help me get from the airport to campus?"
+    flag: safe
+
+  - user_id: user_002
+    content: "Looking for a roommate in the graduate dorms. I'm a CS student, quiet and respectful."
+    flag: safe
+
+  - user_id: user_003
+    content: "Thanks to everyone who helped me settle in! This community is amazing."
+    flag: safe
+
+  - user_id: user_004
+    content: "Does anyone know where to get affordable groceries near campus?"
+    flag: safe
+
+  - user_id: user_005
+    content: "I'm offering free campus tours this Saturday for new students!"
+    flag: safe
+
+  - user_id: user_006
+    content: "Can someone recommend a good phone plan for international students?"
+    flag: safe
+
+  - user_id: user_007
+    content: "Looking for study buddies for Calculus II this semester."
+    flag: safe
+
+  - user_id: user_008
+    content: "Does the campus shuttle run on weekends?"
+    flag: safe
+
+  - user_id: user_009
+    content: "Best coffee shops to study at near campus?"
+    flag: safe
+
+  - user_id: user_010
+    content: "I have extra kitchen supplies to share with new arrivals!"
+    flag: safe
+
+  - user_id: user_011
+    content: "Anyone know a good barber near campus?"
+    flag: safe
+
+  - user_id: user_012
+    content: "What's the best bank to open a student account with?"
+    flag: safe
+
+  - user_id: user_013
+    content: "I can help translate documents for French-speaking students."
+    flag: safe
+
+  - user_id: user_014
+    content: "Looking for someone to practice Spanish with. I'm intermediate level."
+    flag: safe
+
+  - user_id: user_015
+    content: "Any recommendations for laptop repair near campus?"
+    flag: safe
+
+  - user_id: user_016
+    content: "Does anyone have experience with the campus health center?"
+    flag: safe
+
+  - user_id: user_017
+    content: "I'm selling my old textbooks for cheap. All in good condition!"
+    flag: safe
+
+  - user_id: user_018
+    content: "What are the best clubs to join as a freshman?"
+    flag: safe
+
+  - user_id: user_019
+    content: "Can anyone recommend a good dentist that takes student insurance?"
+    flag: safe
+
+  - user_id: user_020
+    content: "Looking for advice on choosing electives for engineering majors."
+    flag: safe
+
+  - user_id: user_021
+    content: "I'm organizing a welcome dinner for new international students this Friday!"
+    flag: safe
+
+  - user_id: user_022
+    content: "Does the library have private study rooms we can book?"
+    flag: safe
+
+  - user_id: user_023
+    content: "Anyone want to join a weekend hiking group?"
+    flag: safe
+
+  - user_id: user_024
+    content: "Need help understanding the course registration system."
+    flag: safe
+
+  - user_id: user_025
+    content: "What documents do I need for the student ID office?"
+    flag: safe
+
+  - user_id: user_026
+    content: "Is there a gym membership included in tuition?"
+    flag: safe
+
+  - user_id: user_027
+    content: "Looking for someone to carpool with from downtown."
+    flag: safe
+
+  - user_id: user_028
+    content: "Any tips for adjusting to the weather here? I'm from a tropical country."
+    flag: safe
+
+  - user_id: user_029
+    content: "Who has experience with the campus writing center?"
+    flag: safe
+
+  - user_id: user_030
+    content: "I found a lost student ID near the science building. DM me to claim it."
+    flag: safe
+
+  - user_id: user_031
+    content: "Recommendations for cheap furniture for a new apartment?"
+    flag: safe
+
+  - user_id: user_032
+    content: "Anyone know if there's a prayer room on campus?"
+    flag: safe
+
+  - user_id: user_033
+    content: "Looking for volunteers for the new student orientation committee."
+    flag: safe
+
+  - user_id: user_034
+    content: "What's the late policy for returning library books?"
+    flag: safe
+
+  - user_id: user_035
+    content: "Can anyone recommend a good laundromat near the south dorms?"
+    flag: safe
+
+  - user_id: user_036
+    content: "I'm a senior and happy to mentor any freshmen in biology."
+    flag: safe
+
+  - user_id: user_037
+    content: "Does anyone have notes from last semester's Psychology 101?"
+    flag: safe
+
+  - user_id: user_038
+    content: "What are the hours for the student food pantry?"
+    flag: safe
+
+  - user_id: user_039
+    content: "Looking for recommendations on affordable housing off campus."
+    flag: safe
+
+  - user_id: user_040
+    content: "Anyone interested in starting a book club?"
+    flag: safe
+
+  - user_id: user_041
+    content: "I just moved here from India, looking to connect with other Indian students."
+    flag: safe
+
+  - user_id: user_042
+    content: "Free yoga sessions every Tuesday at the rec center!"
+    flag: safe
+
+  - user_id: user_043
+    content: "How do I set up my campus email account?"
+    flag: safe
+
+  - user_id: user_044
+    content: "Any advice on finding part-time work on campus?"
+    flag: safe
+
+  - user_id: user_045
+    content: "Looking for someone to share a ride to the airport during spring break."
+    flag: safe
+
+  - user_id: user_046
+    content: "Does the campus have a lost and found office?"
+    flag: safe
+
+  - user_id: user_047
+    content: "What's the process for getting a parking permit?"
+    flag: safe
+
+  - user_id: user_048
+    content: "Any vegetarian-friendly restaurants near campus?"
+    flag: safe
+
+  - user_id: user_049
+    content: "I'm tutoring math for free. DM if interested!"
+    flag: safe
+
+  - user_id: user_050
+    content: "Where can I print documents on campus for cheap?"
+    flag: safe
+
+  - user_id: user_051
+    content: "Looking for a quiet place to practice violin on campus."
+    flag: safe
+
+  - user_id: user_052
+    content: "Anyone know how to connect to the campus WiFi?"
+    flag: safe
+
+  - user_id: user_053
+    content: "Selling a barely used mini fridge, perfect for dorm rooms."
+    flag: safe
+
+  - user_id: user_054
+    content: "What's the best way to get to the nearest mall without a car?"
+    flag: safe
+
+  - user_id: user_055
+    content: "Looking for a gym partner for morning workouts."
+    flag: safe
+
+  - user_id: user_056
+    content: "Does anyone have experience with J-1 visa extensions?"
+    flag: safe
+
+  - user_id: user_057
+    content: "Free movie night at the student union this Thursday!"
+    flag: safe
+
+  - user_id: user_058
+    content: "What's the deadline for adding or dropping courses?"
+    flag: safe
+
+  - user_id: user_059
+    content: "Anyone here from Brazil? Would love to connect!"
+    flag: safe
+
+  - user_id: user_060
+    content: "Tips for surviving finals week?"
+    flag: safe
+
+  - user_id: user_061
+    content: "Where can I buy school supplies on campus?"
+    flag: safe
+
+  - user_id: user_062
+    content: "I have an extra desk lamp if anyone needs one."
+    flag: safe
+
+  - user_id: user_063
+    content: "Best places to watch the sunset on campus?"
+    flag: safe
+
+  - user_id: user_064
+    content: "Anyone interested in joining the debate team?"
+    flag: safe
+
+  - user_id: user_065
+    content: "Where's the nearest pharmacy to campus?"
+    flag: safe
+
+  - user_id: user_066
+    content: "Looking for someone to practice coding interview questions with."
+    flag: safe
+
+  - user_id: user_067
+    content: "Does the campus have bike repair stations?"
+    flag: safe
+
+  - user_id: user_068
+    content: "Free career counseling sessions available at the career center!"
+    flag: safe
+
+  - user_id: user_069
+    content: "What clubs are there for pre-med students?"
+    flag: safe
+
+  - user_id: user_070
+    content: "Anyone know a good tailor near campus?"
+    flag: safe
+
+  - user_id: user_071
+    content: "I'm collecting donations for the student emergency fund."
+    flag: safe
+
+  - user_id: user_072
+    content: "Best snack spots open late at night on campus?"
+    flag: safe
+
+  - user_id: user_073
+    content: "Looking for a tennis partner. Beginner level is fine!"
+    flag: safe
+
+  - user_id: user_074
+    content: "Does anyone have a spare calculator for the exam tomorrow?"
+    flag: safe
+
+  - user_id: user_075
+    content: "What's the best way to ship packages internationally from here?"
+    flag: safe
+
+  - user_id: user_076
+    content: "Offering free haircuts for students this weekend at the dorm lounge!"
+    flag: safe
+
+  - user_id: user_077
+    content: "How do I access the online journal database through the library?"
+    flag: safe
+
+  - user_id: user_078
+    content: "Looking to trade meal plan swipes. Anyone interested?"
+    flag: safe
+
+  - user_id: user_079
+    content: "What time does the campus bookstore close?"
+    flag: safe
+
+  - user_id: user_080
+    content: "Anyone have tips for dealing with homesickness?"
+    flag: safe
+
+  - user_id: user_081
+    content: "I'm starting a photography club. Who's interested?"
+    flag: safe
+
+  - user_id: user_082
+    content: "Does the campus have electric vehicle charging stations?"
+    flag: safe
+
+  - user_id: user_083
+    content: "Looking for someone to help me practice for my presentation."
+    flag: safe
+
+  - user_id: user_084
+    content: "Where can I get my laptop screen fixed cheaply?"
+    flag: safe
+
+  - user_id: user_085
+    content: "Free peer tutoring in chemistry every Wednesday at 3 PM!"
+    flag: safe
+
+  - user_id: user_086
+    content: "What's the Wi-Fi password for the visitor network?"
+    flag: safe
+
+  - user_id: user_087
+    content: "Anyone recommend a good podcast for learning English?"
+    flag: safe
+
+  - user_id: user_088
+    content: "I have spare hangers if anyone needs them for move-in."
+    flag: safe
+
+  - user_id: user_089
+    content: "How do I reserve a study room in the library?"
+    flag: safe
+
+  - user_id: user_090
+    content: "Looking for advice on applying to summer internships."
+    flag: safe
+
+  - user_id: user_091
+    content: "Does campus security offer escorts for walking home late at night?"
+    flag: safe
+
+  - user_id: user_092
+    content: "Anyone want to join an intramural soccer team?"
+    flag: safe
+
+  - user_id: user_093
+    content: "What are the recycling rules on campus?"
+    flag: safe
+
+  - user_id: user_094
+    content: "I'm giving away free plants to brighten up your dorm room!"
+    flag: safe
+
+  - user_id: user_095
+    content: "Best spots on campus for a picnic?"
+    flag: safe
+
+  - user_id: user_096
+    content: "Looking for a language exchange partner - I speak Korean."
+    flag: safe
+
+  - user_id: user_097
+    content: "Does the health center offer flu shots?"
+    flag: safe
+
+  - user_id: user_098
+    content: "Anyone know where to find free or cheap concert tickets?"
+    flag: safe
+
+  - user_id: user_099
+    content: "I'm organizing a cultural food festival next month. Volunteers needed!"
+    flag: safe
+
+  - user_id: user_100
+    content: "What's the policy on keeping pets in the dorms?"
+    flag: safe
+
+  # --- Unsafe posts (expected to trigger moderation flags) ---
+
+  - user_id: user_101
+    content: "I swear I'm going to destroy everyone in this class. They'll all regret messing with me."
+    flag: unsafe
+
+  - user_id: user_102
+    content: "That professor is the worst human being alive and deserves to suffer for what they do to students."
+    flag: unsafe
+
+  - user_id: user_103
+    content: "Some people on this campus are so stupid they shouldn't be allowed to exist."
+    flag: unsafe
+
+  - user_id: user_104
+    content: "If that guy bumps into me one more time, I'll make sure he never walks again."
+    flag: unsafe
+
+  - user_id: user_105
+    content: "I hate everyone in this dorm. They're all worthless and disgusting."
+    flag: unsafe
+
+  - user_id: user_106
+    content: "People from that country are always causing problems. They should go back where they came from."
+    flag: unsafe
+
+  - user_id: user_107
+    content: "That group of students is ruining this school. They don't belong here."
+    flag: unsafe
+
+  - user_id: user_108
+    content: "I want to punch my roommate in the face so badly right now."
+    flag: unsafe
+
+  - user_id: user_109
+    content: "Everyone who disagrees with me is an idiot who should shut up permanently."
+    flag: unsafe
+
+  - user_id: user_110
+    content: "I'll make that person pay for embarrassing me in front of everyone."
+    flag: unsafe
+
+  - user_id: user_111
+    content: "Those people are inferior and shouldn't be allowed in our university."
+    flag: unsafe
+
+  - user_id: user_112
+    content: "My RA is such garbage. Someone should teach them a real lesson."
+    flag: unsafe
+
+  - user_id: user_113
+    content: "I'm going to make that student's life a living nightmare for what they said."
+    flag: unsafe
+
+  - user_id: user_114
+    content: "Some ethnicities just aren't smart enough for this program honestly."
+    flag: unsafe
+
+  - user_id: user_115
+    content: "That kid in my class needs to be beaten up for being so annoying."
+    flag: unsafe
+
+  - user_id: user_116
+    content: "Women don't belong in engineering. They should stick to easier subjects."
+    flag: unsafe
+
+  - user_id: user_117
+    content: "I despise my lab partner. I fantasize about terrible things happening to them."
+    flag: unsafe
+
+  - user_id: user_118
+    content: "The foreign students here are taking spots away from real Americans."
+    flag: unsafe
+
+  - user_id: user_119
+    content: "If I see that person again, there's going to be serious violence."
+    flag: unsafe
+
+  - user_id: user_120
+    content: "People with disabilities are just a burden on the university system."
+    flag: unsafe
+
+  - user_id: user_121
+    content: "I'm so angry I could set the whole building on fire."
+    flag: unsafe
+
+  - user_id: user_122
+    content: "That student is so ugly they should be banned from public spaces."
+    flag: unsafe
+
+  - user_id: user_123
+    content: "Gay students shouldn't be allowed to live in normal dorms."
+    flag: unsafe
+
+  - user_id: user_124
+    content: "I hope my professor gets hit by a car on the way to class."
+    flag: unsafe
+
+  - user_id: user_125
+    content: "Anyone who follows that religion is a terrorist in my book."
+    flag: unsafe
+
+  - user_id: user_126
+    content: "Those sorority girls are nothing but worthless objects."
+    flag: unsafe
+
+  - user_id: user_127
+    content: "If security doesn't fix this, I'll handle it myself with force."
+    flag: unsafe
+
+  - user_id: user_128
+    content: "Students who can't speak English properly should be expelled immediately."
+    flag: unsafe
+
+  - user_id: user_129
+    content: "I'm going to track down whoever stole my bike and hurt them badly."
+    flag: unsafe
+
+  - user_id: user_130
+    content: "People of that race are genetically inferior, proven by science."
+    flag: unsafe
+
+  - user_id: user_131
+    content: "I want to see my rival student suffer for getting better grades."
+    flag: unsafe
+
+  - user_id: user_132
+    content: "Trans students are freaks and shouldn't use our bathrooms."
+    flag: unsafe
+
+  - user_id: user_133
+    content: "I'll slash the tires of anyone who parks in my spot again."
+    flag: unsafe
+
+  - user_id: user_134
+    content: "Poor students should drop out if they can't afford to be here."
+    flag: unsafe
+
+  - user_id: user_135
+    content: "That overweight student in the cafeteria is revolting to look at."
+    flag: unsafe
+
+  - user_id: user_136
+    content: "I'm going to expose and humiliate my ex publicly on campus."
+    flag: unsafe
+
+  - user_id: user_137
+    content: "Old professors should be forced into retirement. They're useless."
+    flag: unsafe
+
+  - user_id: user_138
+    content: "I'm planning to follow that student home and confront them."
+    flag: unsafe
+
+  - user_id: user_139
+    content: "Homeless people near campus should be rounded up and removed."
+    flag: unsafe
+
+  - user_id: user_140
+    content: "I feel like throwing my computer out the window and jumping after it."
+    flag: unsafe
